@@ -1,0 +1,18 @@
+{
+  "name": "auth_service-jwt",
+  "version": "2.0.1",
+  "description": "A simple JWT authentication and token generation service",
+  "main": "index.js",
+  "keywords": [
+    "jwt",
+    "auth",
+    "token",
+    "authentication",
+    "nodejs"
+  ],
+  "author": "Mirin Mano M",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
